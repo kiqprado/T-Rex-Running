@@ -26,6 +26,12 @@
   <img alt="T Rex" src=".github/pvw.png" width="100%">
 </p>
 
+<br>
+
+### Divirta-se e faça seu Record jogando. ➡️ [LINK.](https://kiqprado.github.io/T-Rex-Running/)
+
+<br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
